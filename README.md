@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CutVonDrake
 - 👀 I’m interested in: Pyhton language, Deep learning, NLP, IA, Data science topics.
 - 🌱 I’m currently learning Data science applications.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me andrek._94@hotmail.it
+- 💞️ I’m looking to collaborate on with you 💞️
+- 📫 How to reach me andrea.cutuli351@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
